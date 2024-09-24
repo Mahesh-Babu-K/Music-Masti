@@ -844,16 +844,9 @@ header .song_side .popular_artists .item li img {
     }
 
     header .master_play .icon {
-        font-size: 18px;
         margin: 0.8rem;
     }
-
-    header .master_play h5 {
-        font-size: 12px;
-        text-align: center;
-        width: auto;
-    }
-
+    
     header .master_play #currentStart {
         margin: 0px;
     }
